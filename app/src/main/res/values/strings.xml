@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room_17KA1A0506</string>
+    <string name="room_database_example">Room DataBase Example</string>
+    <string name="enter_the_username">Enter the UserName</string>
+    <string name="save">Save</string>
+    <string name="enter_the_phone_number">Enter the Phone Number</string>
+    <string name="enter_the_email">Enter the Email</string>
+</resources>

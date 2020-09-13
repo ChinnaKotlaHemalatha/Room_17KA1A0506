@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_edit"
+        android:textSize="20dp"
+        android:drawableLeft="@drawable/ic_baseline_create_24"
+        android:layout_margin="5dp"
+        android:layout_gravity="left"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_username"
+        android:textSize="20dp"
+        android:text="UserName"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_email"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="Email"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_phoone"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:text="Phone Number"
+        android:layout_margin="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_delete"
+        android:textSize="20dp"
+        android:drawableLeft="@drawable/ic_baseline_delete_24"
+        android:layout_margin="5dp"
+        android:layout_gravity="right"
+        />
+
+</LinearLayout>
